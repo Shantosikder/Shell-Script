@@ -1,1 +1,1 @@
-Operating System CSE-310
+Operating System lab CSE-310
